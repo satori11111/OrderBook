@@ -1,0 +1,8 @@
+u,9,1,B
+u,11,5,A
+q,best_bid
+u,10,2,B
+o,sell,1
+u,9,0,B
+u,11,0,B
+q,best_bid
